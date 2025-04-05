@@ -32,38 +32,8 @@ An interactive Python-based education assistant that adapts to a student's learn
 
 > No external libraries are required.
 
-## Example Output
-
-```
-=== AI-Powered Personalized Education Assistant ===
-Enter your name: Alice
-Let's find your learning style.
-I remember things better when I see pictures or charts.
-Agree? (yes/no): yes
-...
-
-Detected Learning Style: Visual
-
-Your Personalized Lessons:
-Math: Fractions visualized using pie charts and graphs.
-Science: Water cycle animated diagrams.
-History: Timeline of World War II with historical photos.
-
-Let's take a short quiz!
-Math - What is 5 + 3?: 8
-Correct!
-...
-
-Quiz Complete! Score: 3/3
-Progress saved to Alice_progress.json
-Thanks for learning with us!
-```
 
 ## Files
 
 - `education_assistant.py` - Main source code
 - `yourname_progress.json` - Automatically generated progress file
-
-## License
-
-This project is open-source and free to use under the MIT License.
